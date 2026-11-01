@@ -227,7 +227,7 @@ box-shadow:0 5px 20px rgba(0,0,0,.3);
 </button>
 
 <audio id="music" loop>
-<source src="song.mp3" type="audio/mpeg">
+<source src="song" type="audio/mpeg">
 </audio>
 
 <script>
